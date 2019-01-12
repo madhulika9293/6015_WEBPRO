@@ -1,0 +1,12 @@
+https://www.w3schools.com/css/css_border.asp
+https://www.w3schools.com/howto/howto_css_rounded_images.asp
+https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_temp_store&stacked=h
+https://stackoverflow.com/questions/20878929/css-html-putting-up-a-text-label-on-my-image
+https://stackoverflow.com/questions/34685233/css-badge-over-image-with-bootstrap
+https://www.w3schools.com/css/css_font.asp
+https://stackoverflow.com/questions/43517972/css-center-image-and-text-in-a-column
+https://stackoverflow.com/questions/22904102/how-to-change-the-background-color-of-jumbrotron
+https://www.w3schools.com/howto/howto_css_image_transparent.asp
+https://stackoverflow.com/questions/40112618/bootstrap4-adding-scrollbar-to-div?rq=1
+https://www.w3schools.com/cssref/css3_pr_box-shadow.asp
+https://www.w3schools.com/cssref/sel_hover.asp
