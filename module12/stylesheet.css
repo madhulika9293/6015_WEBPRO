@@ -1,0 +1,29 @@
+.container {
+    background: lightblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1 {
+    padding-left: 90px;
+}
+
+.outName {
+    font-size: 20px;
+    font-style: italic;
+}
+
+.outComment {
+    font-size: 35px;
+}
+
+#outputDiv {
+    border-top: 1px dashed grey;
+
+}
+
+#nullError1 {
+    color: red;
+}
+
+#nullError2 {
+    color: red;
+}
